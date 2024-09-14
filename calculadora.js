@@ -16,3 +16,14 @@ module.exports = {
     add,
     subtract
 };
+
+//Função de mult
+function multiply(a,b) {
+    return a * b;
+}
+//exportar Função
+module.exports = {
+    add,
+    subtract,
+    multiply
+};
