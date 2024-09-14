@@ -1,0 +1,11 @@
+{
+  "name": "uf-cicd-calcjs-naiara",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Naiara Coelho",
+  "license": "ISC",
+  "description": ""
+}
