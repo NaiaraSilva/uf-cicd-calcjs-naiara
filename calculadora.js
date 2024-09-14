@@ -16,3 +16,10 @@ module.exports = {
     add,
     subtract
 };
+//Função div
+function divide (a, b){
+if (b === 0){
+    throw new error("diviso por zero nao é permitida");
+}
+return a / b;
+}
