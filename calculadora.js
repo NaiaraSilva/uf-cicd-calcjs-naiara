@@ -7,3 +7,12 @@ function add(a,b) {
 module.exports = {
     add
 };
+//Função sub
+function subtract(a,b) {
+    retun a - b;
+}
+//Exportar Função
+module.exports = {
+    add,
+    subtract
+};
